@@ -42,7 +42,7 @@ public class BorrowingRecords {
     }
     public BorrowingRecords() {
     }
- 
+
     @Override
     public String toString() {
         return String.format("book = '%s', user = '%s', borrowingDate = '%s', returnDate = '%s', fine = %.2f",
